@@ -1,0 +1,41 @@
+PROCES3
+  KDYŽ JE ZNAÈKA
+    KROK
+    KDYŽ JE ZNAÈKA
+      KROK
+      KDYŽ JE ZNAÈKA
+        ZBYTEK
+        DÁL
+      KONEC, JINAK
+        ZBYTEK
+        DÁL
+      KONEC
+    KONEC, JINAK
+      KROK
+      KDYŽ JE ZNAÈKA
+        ZVEDNI
+        ZBYTEK
+        DÁL
+      KONEC, JINAK
+        POLOŽ
+        DÁL
+      KONEC
+    KONEC
+  KONEC, JINAK
+    KROK
+    KDYŽ JE ZNAÈKA
+      KROK
+      KDYŽ JE ZNAÈKA
+        ZVEDNI
+        ZBYTEK
+        DÁL
+      KONEC, JINAK
+        POLOŽ
+        DÁL
+      KONEC
+    KONEC, JINAK
+      KROK
+      DÁL
+    KONEC
+  KONEC
+KONEC
