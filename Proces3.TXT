@@ -1,41 +1,42 @@
+Karel
 PROCES3
-  KDYé JE ZNA»KA
+  KDY≈Ω JE ZNAƒåKA
     KROK
-    KDYé JE ZNA»KA
+    KDY≈Ω JE ZNAƒåKA
       KROK
-      KDYé JE ZNA»KA
+      KDY≈Ω JE ZNAƒåKA
         ZBYTEK
-        D¡L
+        D√ÅL
       KONEC, JINAK
         ZBYTEK
-        D¡L
+        D√ÅL
       KONEC
     KONEC, JINAK
       KROK
-      KDYé JE ZNA»KA
+      KDY≈Ω JE ZNAƒåKA
         ZVEDNI
         ZBYTEK
-        D¡L
+        D√ÅL
       KONEC, JINAK
-        POLOé
-        D¡L
+        POLO≈Ω
+        D√ÅL
       KONEC
     KONEC
   KONEC, JINAK
     KROK
-    KDYé JE ZNA»KA
+    KDY≈Ω JE ZNAƒåKA
       KROK
-      KDYé JE ZNA»KA
+      KDY≈Ω JE ZNAƒåKA
         ZVEDNI
         ZBYTEK
-        D¡L
+        D√ÅL
       KONEC, JINAK
-        POLOé
-        D¡L
+        POLO≈Ω
+        D√ÅL
       KONEC
     KONEC, JINAK
       KROK
-      D¡L
+      D√ÅL
     KONEC
   KONEC
 KONEC
